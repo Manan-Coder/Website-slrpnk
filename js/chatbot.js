@@ -190,6 +190,7 @@ function getbot_msg(input) {
         { pattern: /\bsponsor hacklumina\b/i, response: "Interested in sponsoring HackLumina? Check out our prospectus here: <a href='prospectus/HackLumina%20Prospectus.pdf'>HackLumina Prospectus</a>" },
         { pattern: /\bsponsor hackathon\b/i, response: "Interested in sponsoring HackLumina? Check out our prospectus here: <a href='prospectus/HackLumina%20Prospectus.pdf'>HackLumina Prospectus</a>" },
         { pattern: /\bsponsor us\b/i, response: "Interested in sponsoring HackLumina? Check out our prospectus here: <a href='prospectus/HackLumina%20Prospectus.pdf'>HackLumina Prospectus</a>" },
+        { pattern: /\bfeatures\b/i, response: "The website includes interactive features like a message form, background audio controls, parallax scrolling, and social media links (Twitter, Instagram, and LinkedIn)." },
         { pattern: /\bfeatures\b/i, response: "The website includes interactive features like a message form, background audio controls, parallax scrolling, and social media links (Twitter, Instagram, and LinkedIn)." }
     ];
 
